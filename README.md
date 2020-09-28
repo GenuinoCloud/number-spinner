@@ -16,3 +16,5 @@ En el aspecto de amigabilidad con el usuario el objetivo es que estos botones te
 
 
 Para lograr lo anterior se usa una maquetación combinando las propiedades csss `grid` con `flex` de acuedo a un `media query`
+
+[Ver código fuente](/spinner.html)
